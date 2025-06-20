@@ -1,5 +1,6 @@
 # gengo2002 files
 zinc-0/znc
+p386/p386
 .devcontainer/
 
 # gitignore template for C from https://github.com/github/gitignore/blob/main/C.gitignore
