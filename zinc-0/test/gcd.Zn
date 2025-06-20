@@ -4,8 +4,8 @@ word x, y, z;
 
 defproc _main :
 {
-  set x := 1203 * 7;
-  set y := 371 * 7;
+  set x := 15639;
+  set y := 4823;
   call gcd;
   call putword;
   putchar 10;
